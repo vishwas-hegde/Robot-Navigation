@@ -1,5 +1,7 @@
 # UKF Implementation
 
+## Refer to [UKF](https://github.com/vishwas-hegde/Robot-Navigation/blob/main/Nonlinear%20Kalman%20Filter/Project%203%20-%20Nonlinear%20Kalman%20Filter.pdf) for project instructions. This projects implements UKF to estimate the pose of a quadcopter.
+
 ## Refer to the [nonlinear_kalman_visuals.ipynb](https://github.com/vishwas-hegde/Robot-Navigation/blob/main/Nonlinear%20Kalman%20Filter/nonlinear_kalman_visuals.ipynb) for the outputs.
 
 1) ukf.py - UKF implementation (Predict and Update)
